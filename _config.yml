@@ -39,6 +39,9 @@ asciidoctor:
     - idseparator=_
     - source-highlighter=coderay
     - icons=font
+actions:
+- name: Jekyll Actions
+  uses: helaili/jekyll-action@2.5.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
