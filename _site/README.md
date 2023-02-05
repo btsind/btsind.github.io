@@ -1,4 +1,0 @@
-# btsind
-
-
-HI there!
